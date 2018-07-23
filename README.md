@@ -8,7 +8,7 @@ Configure auth token
 
 1. Run `ghpr-auth`.
 1. Press Enter.
-1. Paste your `auth_token` you retrieve from https://github.com/settings/tokens/new
+1. Paste your `auth_token` you retrieve from https://github.com/settings/tokens/new?description=alfred-pull-requests-counter&scopes=repo
 
 List your pull requests
 
